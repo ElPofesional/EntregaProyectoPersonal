@@ -11,13 +11,15 @@ Este proyecto es una aplicación de chat sencilla que ejecuta un agente ("Profes
 
 ---
 
-## Configuración (API Key)
+## Configuración (API Key) (Paso necesario)
 Introduce tu API Key (directamente del portapapeles para evitar errores) en el `.env`, donde pone `OPENAI_API_KEY=`.
 
 
 
 
 ## Ejecutar con Docker
+
+Una vez  descargado el producto y configurado todo lo necesario, para ejecutar el proyecto hay que seguir los siguientes pasos:
 
 1) Construir la imagen:
 
